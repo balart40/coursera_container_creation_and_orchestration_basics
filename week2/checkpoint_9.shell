@@ -1,0 +1,2 @@
+touch image_{1..5}{.gif,.png,.jpeg}
+rm image_{1..5}{.gif,.png,.jpeg}
